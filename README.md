@@ -3,5 +3,5 @@
 
 ### Hi 👋, I'm Denis!
 
-- iOS Engineer [@Clip](https://www.clip.mx/) based in Buenos Aires, Argentina.
+- iOS Engineer based in Buenos Aires, Argentina.
 - How to reach me: deniscbrex.dev@gmail.com
